@@ -45,7 +45,7 @@ public class SlidingUpPanelLayout extends ViewGroup {
     /**
      * Default height of the shadow above the peeking out panel
      */
-    private static final int DEFAULT_SHADOW_HEIGHT = 4; // dp;
+    private static final int DEFAULT_SHADOW_HEIGHT = 5; // dp;
 
     /**
      * If no fade color is given by default it will fade to 80% gray.
