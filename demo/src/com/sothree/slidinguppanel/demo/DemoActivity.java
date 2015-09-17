@@ -137,6 +137,7 @@ public class DemoActivity extends ActionBarActivity {
             mLayout.setPanelState(PanelState.COLLAPSED);
         } else {
             super.onBackPressed();
+            Log.i("DemoActivity","BackPressed");
         }
     }
 }
